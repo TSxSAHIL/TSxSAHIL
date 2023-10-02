@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Arora</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<p align="center">
-<img width="400" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-  </p>
-<br>
 
-  <img alt="Sahil's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=TSxSAHIL&theme=dark&card_width=400">
-  <img alt="Sahil's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TSxSAHIL&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400">
 
-  <a href="https://leetcode.com/tssahil2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="TSxSAHIL" height="30" width="40" /></a>
-
-![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TSxSAHIL&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)
-  </p>
-  </p>
   
 - 🔭 I’m currently working on **Flutter**
 
@@ -45,9 +34,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsxsahil&show_icons=true&locale=en&layout=compact" alt="tsxsahil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsxsahil&show_icons=true&locale=en" alt="tsxsahil" /></p>
+<p align="center">
+</p>
+<div style="float: right;">
+  <img alt="Sahil's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=TSxSAHIL&theme=dark&card_width=400">
+  <img alt="Sahil's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TSxSAHIL&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsxsahil&" alt="tsxsahil" /></p>
+![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TSxSAHIL&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)
 
 <!-- Add Holopin badges below -->
 [![An image of @tsxsahil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tsxsahil)](https://holopin.io/@tsxsahil)
