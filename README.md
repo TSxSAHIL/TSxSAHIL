@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **Flutter**
 - 👯 I’m looking to collaborate on **Android Development**
 - 🤝 I’m looking for internships in **Startups**
+- 🖥️ I love contributing to **Open-Source Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
