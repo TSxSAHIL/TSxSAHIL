@@ -19,7 +19,7 @@
     <div style="width: 33%; display: inline-block; vertical-align: top;">
         <p>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsxsahil&show_icons=true&locale=en&layout=compact" alt="tsxsahil" />
-          <img src="https://holopin.me/nikhil9977" alt="An image of @tsxsahil's Holopin badges, which is a link to view their full Holopin profile" style="width: 60%; height: auto;">
+          <img src="https://holopin.me/tsxsahil" alt="An image of @tsxsahil's Holopin badges, which is a link to view their full Holopin profile" style="width: 60%; height: auto;">
         </p>
     </div>
     <div style="width: 33%; display: inline-block; vertical-align: top;">
